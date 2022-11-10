@@ -34,5 +34,6 @@ int main()
     xuat(arr, n);
 
     printf ("\n co tinh de "); // haha
+    // sua luc 11h10
 
 }
