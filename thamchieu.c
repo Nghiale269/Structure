@@ -33,6 +33,6 @@ int main()
     nhap(arr, n);
     xuat(arr, n);
 
-    printf ("\n co tinh de "); // haha
-
+    printf ("\n branch 1 "); // haha
+    
 }
