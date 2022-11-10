@@ -9,7 +9,10 @@ void nhap (int *arr, int n)
         scanf("%d", arr+i);
     }
 }
-
+void test (int a, int b)
+{
+    printf("\n test git");
+}
 void xuat (int *arr, int n)
 {
     for (int i = 0; i< n; i++)
