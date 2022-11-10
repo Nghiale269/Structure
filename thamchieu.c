@@ -32,5 +32,7 @@ int main()
     scanf("%d", &n);
     nhap(arr, n);
     xuat(arr, n);
+    
+    printf ("\n co tinh de conflic"); // haha
 
 }
